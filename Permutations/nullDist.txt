@@ -1,0 +1,11 @@
+Iteration: 0/10 = 38 overlaps
+Iteration: 1/10 = 34 overlaps
+Iteration: 2/10 = 28 overlaps
+Iteration: 3/10 = 28 overlaps
+Iteration: 4/10 = 30 overlaps
+Iteration: 5/10 = 21 overlaps
+Iteration: 6/10 = 26 overlaps
+Iteration: 7/10 = 28 overlaps
+Iteration: 8/10 = 31 overlaps
+Iteration: 9/10 = 29 overlaps
+Iteration: 10/10 = 33 overlaps
