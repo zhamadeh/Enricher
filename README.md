@@ -8,4 +8,4 @@ Permutation enrichment test for assessing the distribution of genomic elements i
 4. Collect output plot from Plots folder
 
 ## Example output
-![](Plots/enrichmentPlot.png)
+![](Plots/GRCh37_G4_1-3.bed.png)
